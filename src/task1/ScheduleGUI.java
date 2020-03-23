@@ -1,4 +1,4 @@
-package memento;
+package task1;
 
 import java.awt.*;
 import java.awt.event.*;
